@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\1556\\Documents\\APK\\SwagAppAPK.apk', true)
+Mobile.startApplication('APK/SwagApp_Android.apk', true)
 
 Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
 
@@ -27,13 +27,13 @@ Mobile.tap(findTestObject('Object Repository/OR_SWAG_Android/menu_Login'), 0)
 
 Mobile.takeScreenshotAsCheckpoint('1', FailureHandling.STOP_ON_FAILURE)
 
-Mobile.setText(findTestObject('Object Repository/OR_SWAG_Android/field_Username'), 'bob@example.com', 0)
+Mobile.setText(findTestObject('OR_SWAG_Android/field_Username'), 'bob@example.com', 0)
 
-Mobile.setText(findTestObject('Object Repository/OR_SWAG_Android/field_Password'), '10203040', 0)
+Mobile.setText(findTestObject('OR_SWAG_Android/field_Password'), '10203040', 0)
 
 Mobile.takeScreenshotAsCheckpoint('2', FailureHandling.STOP_ON_FAILURE)
 
-Mobile.tap(findTestObject('Object Repository/OR_SWAG_Android/btn_Login'), 0)
+Mobile.tap(findTestObject('OR_SWAG_Android/btn_Login'), 0)
 
 Mobile.verifyElementVisible(findTestObject('OR_SWAG_Android/verify_LoginSuccess'), 5)
 

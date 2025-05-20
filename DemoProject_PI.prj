@@ -9,9 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.6.0</modifiedVersion>
+   <modifiedVersion>10.0.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\1556\Katalon Studio\DemoProject_PI\DemoProject_PI.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\1556\git\DemoProject_PI\DemoProject_PI.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
