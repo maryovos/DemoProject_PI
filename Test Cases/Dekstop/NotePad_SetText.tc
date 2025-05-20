@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NotePad_SetText</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>503cb8e2-f3cc-4400-b620-8f4f2299b032</testCaseGuid>
+</TestCaseEntity>

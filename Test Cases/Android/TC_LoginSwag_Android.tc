@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_LoginSwag_Android</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67bfa54b-a4c6-4d94-ad23-4f293f009ee5</testCaseGuid>
+</TestCaseEntity>
