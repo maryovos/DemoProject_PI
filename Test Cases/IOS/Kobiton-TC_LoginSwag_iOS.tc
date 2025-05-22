@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Kobiton-TC_LoginSwag_iOS</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>TESTCLOUD_NATIVE_MOBILE</recordOption>
-   <testCaseGuid>de21f08f-6b06-4de8-bb49-e13f3aee1ae4</testCaseGuid>
-</TestCaseEntity>
